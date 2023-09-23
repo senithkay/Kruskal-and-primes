@@ -1,0 +1,3 @@
+C:/Users/senit/OneDrive/Desktop/UCSC/3rd_year/sem1/graph_theory/assignment1/cmake-build-debug/CMakeFiles/assignment1.dir
+C:/Users/senit/OneDrive/Desktop/UCSC/3rd_year/sem1/graph_theory/assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/senit/OneDrive/Desktop/UCSC/3rd_year/sem1/graph_theory/assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
